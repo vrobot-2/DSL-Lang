@@ -2,7 +2,7 @@
  By: Virat R. Ponugoti
 
 ## What is this?
-This is a programming language designed to make programming autonomous routes **more readable** by non programmers. Shh, ChatGPT made half of this.
+This is a programming language designed to make programming autonomous routes **more readable** by non programmers. Shh, ChatGPT made half of this. (Vibe Coding)
 
 ## But Why?
 I got bored.
